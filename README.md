@@ -35,8 +35,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 ## program
 ```
-Developed by: JAVITH FARKHAN S
-RegisterNumber:212221240017
+Developed by: KERSOAN P
+RegisterNumber:212221230050
 
 module combinationalcircuit(A,B,C,D,F1);
 input A,B,C,D;
